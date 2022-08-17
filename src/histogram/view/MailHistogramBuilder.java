@@ -8,7 +8,7 @@ import java.util.List;
  * each domain
  *
  * @author Brian Suárez Santiago
- * @version 1.0.0
+ * @version 2.0.0
  * @see <a href="https://docs.oracle.com/javase/8/docs/api/java/util/List.html">Interface List</a>
  */
 public class MailHistogramBuilder {
